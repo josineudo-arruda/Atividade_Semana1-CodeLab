@@ -1,3 +1,11 @@
 Hello World!
 
 Olá eu sou uma nova linha!
+
+<form action="/action_page.php">
+  <label for="fname">Primeiro Nome:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Último nome:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</form>
